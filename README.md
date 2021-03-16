@@ -37,7 +37,7 @@ Demais distribuições linux devem funcionar sem problemas mas têm comandos e p
 > onde `extra` pode ser um dos seguintes pacotes extras:
 >
 > - `all` - contém todos os pacotes extras, recomendados para os cientistas que irão prototipar soluções em suas máquinas. Atente para o fato de que a instalação deste extra implica na leitura das demais documentações e instalação de todas bibliotecas necessárias para pleno funcionamento.
-> - `db` - contém o pacote `gmpyinfr-dbutils`. Leia a [documentação](https://github.com/anewmanvs/gmpyinfr_dbutils) para passos de instalação prévios à instalação do pacote python.
+> - `db` - contém o pacote [`gmpyinfr-dbutils`](https://github.com/anewmanvs/gmpyinfr_dbutils). Leia a [documentação](https://github.com/anewmanvs/gmpyinfr_dbutils) para passos de instalação prévios à instalação do pacote python.
 
 ### Conda
 
