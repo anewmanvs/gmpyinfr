@@ -40,6 +40,7 @@ Demais distribuições linux devem funcionar sem problemas mas têm comandos e p
 > - `db` - contém o pacote [`gmpyinfr-dbutils`](https://github.com/anewmanvs/gmpyinfr_dbutils). Responsável pela comunicação com os bancos de dados, incluindo rotinas de leitura/escrita rápida. Leia a [documentação](https://github.com/anewmanvs/gmpyinfr_dbutils) para passos de instalação prévios à instalação do pacote python.
 > - `bot` - contém o pacote [`gmpyinfr-telegram`](https://github.com/anewmanvs/gmpyinfr_telegram). Responsável pela comunicação com a API do Telegram para envio de mensagens a partir de um Bot. Leia a [documentação](https://github.com/anewmanvs/gmpyinfr_telegram) para mais detalhes.
 > - `amqp` - contém o pacote [`gmpyinfr-amqp`](https://github.com/anewmanvs/gmpyinfr_amqp). Responsável pela comunicação com o RabbitMQ pelo protocolo AMQP. Lei a [documentação](https://github.com/anewmanvs/gmpyinfr_amqp) para mais detalhes.
+> - `log` - contém o pacote [`gmpyinfr-log`](https://github.com/anewmanvs/gmpyinfr_amqp). Responsável pela gestão do log, sobre o pacote logging do python e comunicação com o Logstash. Leia a [documentação](https://github.com/anewmanvs/gmpyinfr_amqp) para mais detalhes.
 
 ### Conda
 
